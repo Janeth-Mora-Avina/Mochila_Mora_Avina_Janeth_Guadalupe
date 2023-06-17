@@ -1,0 +1,7 @@
+1* IP privada y IP publica de la maquina virtual:
+	Privada -> 10.0.X.XX
+	Publica -> 187.213.XXX.XXX
+2* Direccion MAC:
+	08:00:27:aX:XX:dX
+3* Es diferente a la IP publica y privada de nuestra maquina host?
+	La IP privada es diferente, solo la IP publica es igual a mi maquina host.
